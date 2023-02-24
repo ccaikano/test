@@ -1,0 +1,11 @@
+{
+  "properties":
+  [
+    {
+      "name": "header",
+      "type": "java.lang.String",
+      "description": "Authorization"
+    }
+  ]
+
+}
